@@ -21,4 +21,5 @@ C programlama dili ile geliştirilmiş, terminal tabanlı klasik XOX (Tic-Tac-To
  O |   |   
 
 
-Satir #(1-3) ve Sutun #(1-3) girin:
+Satir #(1-3) girin:
+
